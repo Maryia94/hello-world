@@ -1,2 +1,6 @@
 # hello-world
-This is my very first repository. I guess It's just gonna say "Hello World"...
+
+Hi everyone!
+
+I'm Maryia, I'm 24, and I'm about to graduate from USC.
+I don't really know what I'm doing XD
